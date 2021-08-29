@@ -2,7 +2,7 @@
    "lang":"ka_GE",
    "dir":"ltr",
    "name":"ჩუმჩუმელა",
-   "scope":"/spy",
+   "scope":"/spy/",
    "start_url":"https://daftplug.com/spy/",
    "short_name":"ჩუმჩუმელა",
    "description":"იპოვეთ ჩუმჩუმელა დროის გასვლამდე ისე, რომ სიტყვას ვერ მიხვდეს. სხვა შემთხვევაში ის გაიმარჯვებს!.",
