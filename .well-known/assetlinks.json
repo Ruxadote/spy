@@ -1,0 +1,5 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target" : { "namespace": "android_app", "package_name": "com.chumchumela.twa",
+                   "sha256_cert_fingerprints": ["36:3D:77:88:08:73:2E:D1:BD:59:8B:A2:91:09:88:9B:6B:BD:E3:2A:B7:77:A6:34:66:F0:A2:48:96:A8:2E:54"] }
+    }]

@@ -1,0 +1,62 @@
+{
+   "lang":"ka_GE",
+   "dir":"ltr",
+   "name":"ჩუმჩუმელა",
+   "scope":"/spy",
+   "start_url":"https://daftplug.com/spy/",
+   "short_name":"ჩუმჩუმელა",
+   "description":"იპოვეთ ჩუმჩუმელა დროის გასვლამდე ისე, რომ სიტყვას ვერ მიხვდეს. სხვა შემთხვევაში ის გაიმარჯვებს!.",
+   "display":"standalone",
+   "orientation":"portrait",
+   "theme_color":"#1f2029",
+   "background_color":"#1f2029",
+   "prefer_related_applications": true,
+   "related_applications":[
+      {
+         "platform": "play",
+         "url": "https://play.google.com/store/apps/details?id=com.chumchumela.twa",
+         "id": "com.chumchumela.twa"
+      }
+   ],
+   "categories":[
+      "games",
+      "entertainment"
+   ],
+   "icons":[
+      {
+         "src":"https://daftplug.com/spy/assets/img/icon-512.png",
+         "sizes":"512x512",
+         "type":"image/png",
+         "purpose":"maskable any"
+      },
+      {
+         "src":"https://daftplug.com/spy/assets/img/icon-192.png",
+         "sizes":"192x192",
+         "type":"image/png",
+         "purpose":"maskable any"
+      },
+      {
+         "src":"https://daftplug.com/spy/assets/img/icon-180.png",
+         "sizes":"180x180",
+         "type":"image/png",
+         "purpose":"maskable any"
+      }
+   ],
+   "screenshots":[
+      {
+         "src":"https://daftplug.com/spy/assets/img/screenshot1.png",
+         "sizes":"411x731",
+         "type":"image/png"
+      },
+      {
+         "src":"https://daftplug.com/spy/assets/img/screenshot2.png",
+         "sizes":"411x731",
+         "type":"image/png"
+      },
+      {
+         "src":"https://daftplug.com/spy/assets/img/screenshot3.png",
+         "sizes":"411x731",
+         "type":"image/png"
+      }
+   ]
+}
